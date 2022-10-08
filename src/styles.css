@@ -1,44 +1,43 @@
-*{
-    padding: 0;
-    margin:0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 
 .dashboard {
-    display:flex;
-    background-color: #6874E8;
-    padding:1rem;
-    justify-content: right;
+  display: flex;
+  background-color: #6874e8;
+  padding: 1rem;
+  justify-content: right;
 }
 
-#dashboard-title{
-    letter-spacing: .2rem;
-    color:white;
-    padding-right:20rem;
-    font-size: 4rem;
-    font-weight: bold;
+#dashboard-title {
+  letter-spacing: 0.2rem;
+  color: white;
+  padding-right: 20rem;
+  font-size: 4rem;
+  font-weight: bold;
 }
 
-.search{
-    background-color:blanchedalmond;
-    padding-left: 3rem;
+.search {
+  background-color: blanchedalmond;
+  padding-left: 3rem;
 }
-.mt-3{
-    padding-left: .5rem;
-    padding-bottom:.5rem;
+.mt-3 {
+  padding-left: 0.5rem;
+  padding-bottom: 0.5rem;
 }
-#site-search{
-    border-radius: 3px;
-    padding:1rem;
-    font-size:medium;
-    height:40px;
-    width:250px;
-   
+#site-search {
+  border-radius: 3px;
+  padding: 1rem;
+  font-size: medium;
+  height: 40px;
+  width: 250px;
 }
 
-#search-button{
-   width:25rem;
-   height:25px;
-   margin-top:1rem;
+#search-button {
+  width: 25rem;
+  height: 25px;
+  margin-top: 1rem;
 }
