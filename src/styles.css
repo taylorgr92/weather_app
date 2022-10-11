@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  max-height: 100%
 }
 
 .dashboard {
@@ -15,9 +16,11 @@
 #dashboard-title {
   letter-spacing: 0.2rem;
   color: white;
-  padding-right: 20rem;
+  text-align:right;
+  margin-right:10rem;
   font-size: 4rem;
   font-weight: bold;
+
 }
 
 .search {
@@ -40,4 +43,8 @@
   width: 25rem;
   height: 25px;
   margin-top: 1rem;
+}
+#five-day-title{
+display: flex;
+
 }
