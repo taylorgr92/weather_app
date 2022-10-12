@@ -9,6 +9,6 @@ This project was developed to help the user access weather data for multiple cit
 
 Follow this link to clone the code: https://github.com/taylorgr92/weather_app
 
-#Screenshots
+# Screenshots
 
 https://snipboard.io/NrC9Wh.jpg
