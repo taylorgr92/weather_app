@@ -11,6 +11,4 @@ Follow this link to clone the code: https://github.com/taylorgr92/weather_app
 
 # Screenshots
 
-screenshot1.png
-
-screenshot2.png
+https://snipboard.io/TQtEi1.jpg
