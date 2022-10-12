@@ -1,5 +1,5 @@
-# Your Weather Dashboard
-
+# Project Title
+Your Weather Dashboard
 
 # Description
 
@@ -11,4 +11,6 @@ Follow this link to clone the code: https://github.com/taylorgr92/weather_app
 
 # Screenshots
 
-https://snipboard.io/NrC9Wh.jpg
+screenshot1.png
+
+screenshot2.png
